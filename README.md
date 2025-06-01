@@ -23,9 +23,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourUser/yourUser/main/assets/coding.gif"
-       alt="Coding animation"
-       width="350" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" width="350" />
 </p>
 
 
