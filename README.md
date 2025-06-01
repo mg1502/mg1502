@@ -22,9 +22,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width="30px"/>
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="600" height="300"/>
+</div>
 
 
 <!-- centered “typing” banner -->
