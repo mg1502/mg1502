@@ -1,9 +1,3 @@
-<!-- ─────────────────────────  BACKGROUND WRAPPER  ────────────────────────── -->
-<table width="100%" cellspacing="0" cellpadding="12" bgcolor="#EAF4FF">
-<tr><td>
-
-<!-- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  YOUR ORIGINAL CONTENT STARTS HERE  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ -->
-
 # Manya Gupta
 ## 🌐 Connect with Me
 
@@ -36,6 +30,8 @@
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="600" height="300"/>
 </div>
 
+
+<!-- centered “typing” banner -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4BB543&center=true&vCenter=true&width=450&height=45&lines=Welcome+to+my+profile!;Glad+to+see+you+here+🚀"
@@ -50,9 +46,9 @@
 
 ## 🚀 About Me
 
-- 👩‍💻 Full stack developer with a knack for performance and scalability  
-- 🤖 Exploring the edges of AI and machine learning  
-- 🛠️ Love turning complex problems into simple, elegant solutions  
+- 👩‍💻 Full-stack developer with a knack for performance and scalability
+- 🤖 Exploring the edges of AI and machine learning
+- 🛠️ Love turning complex problems into simple, elegant solutions
 
 ---
 
@@ -85,10 +81,10 @@
 
 ## 🏆 Notable Projects
 
-- **Coral**: Speech awareness app @ MIT AI for Impact  
-- **Asthma Predictor**: Achieved 97 percent accuracy in predicting asthma  
-- **Cloud 2048**: Multiplayer 2048 game hosted on the cloud  
-- **Realtime Chat App**: Lightning fast, scalable chat platform  
+- **Coral**: Speech-awareness app @ MIT AI for Impact
+- **Asthma Predictor**: Achieved 97% accuracy in predicting asthma
+- **Cloud 2048**: Multiplayer 2048 game hosted on the cloud
+- **Realtime Chat App**: Lightning-fast, scalable chat platform
 
 ---
 
@@ -96,7 +92,5 @@
 
 **B.Tech CSE** @ SRM Institute of Science and Technology ’25
 
-<!-- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  YOUR CONTENT ENDS HERE  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ -->
 
-</td></tr>
-</table>
+i want to add a background colour to this 
