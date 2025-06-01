@@ -23,10 +23,11 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="Coder at work"
-       width="250" />
+  <img src="https://raw.githubusercontent.com/yourUser/yourUser/main/assets/coding.gif"
+       alt="Coding animation"
+       width="350" />
 </p>
+
 
 <!-- centered “typing” banner -->
 <p align="center">
