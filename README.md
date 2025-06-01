@@ -1,4 +1,4 @@
-# Manya-Gupta
+# Manya Gupta
 # Hi, I’m Manya! 👋
 
 🔥 **Software developer** and **AI explorer** turning ideas into working code  
