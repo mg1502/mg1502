@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" width="350" />
+  <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width="30px"/>
 </p>
 
 
