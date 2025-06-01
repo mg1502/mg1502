@@ -21,6 +21,10 @@
   </a>
 </p>
 
+<h1 align="center">
+  HEY THERE!!
+  <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width="30px"/>
+</h1>
 
 <div align="center">
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="600" height="300"/>
