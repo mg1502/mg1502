@@ -1,5 +1,11 @@
 # Manya Gupta
-# Hi, I’m Manya! 👋
+<!-- centered “typing” banner -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4BB543&center=true&vCenter=true&width=450&height=45&lines=Welcome+to+my+profile!;Glad+to+see+you+here+🚀"
+    alt="Typing SVG"
+  />
+</p>
 
 🔥 **Software developer** and **AI explorer** turning ideas into working code  
 🎯 Passionate about building efficient web apps & improving system performance
