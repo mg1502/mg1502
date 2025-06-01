@@ -89,11 +89,3 @@
 
 **B.Tech CSE** @ SRM Institute of Science and Technology ’25
 
----
-
-## 🌐 Connect with Me
-
-- [GitHub](https://github.com/mg1502)
-- [LinkedIn](https://www.linkedin.com/in/mg1502/)
-- 📧 gupta.manya115@gmail.com
-
