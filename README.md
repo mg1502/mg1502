@@ -92,5 +92,3 @@
 
 **B.Tech CSE** @ SRM Institute of Science and Technology ’25
 
-
-i want to add a background colour to this 
